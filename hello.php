@@ -10,5 +10,23 @@
     <?php
     echo "<h1>hello PHP -codewrapper</h1>";
     ?>
+
+
+    <?php
+    
+    //include_once('bannerr.php');
+    require_once('bannerr.php');
+    
+    ?>
+
+<table border="1">
+    <tr>
+        <td>
+        New Members
+        
+        </td>
+    </tr>
+</table>
+
     </body>
 </html>
